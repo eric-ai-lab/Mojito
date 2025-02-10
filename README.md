@@ -1,4 +1,4 @@
-# Mojito
+# Mojito: Motion Trajectory and Intensity Control for Video Generation
 
 
 [Xuehai He](https://sheehan1230.github.io/), [Shuohang Wang](https://scholar.google.com.sg/citations?user=mN-IO6wAAAAJ&hl=zh-CN), [Jianwei Yang](https://jwyang.github.io/), [Xiaoxia Wu](https://xwushirley.github.io/), [Yiping Wang](https://ypwang61.github.io/), [Kuan Wang](https://scholar.google.com/citations?hl=en&user=c1-_-dUAAAAJ&view_op=list_works&sortby=pubdate), [Zheng Zhan](https://zhanzheng8585.github.io/), [Olatunji Ruwase](https://www.microsoft.com/en-us/research/people/olruwase/), [Yelong Shen](https://scholar.google.com/citations?user=S6OFEFEAAAAJ&hl=en), [Xin Eric Wang](https://eric-xw.github.io/)
